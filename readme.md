@@ -2,6 +2,8 @@
 
 ## 1. 安装依赖包
 
+进入`src`目录
+
 ```bash
 pip install -r requirements.txt
 ```
